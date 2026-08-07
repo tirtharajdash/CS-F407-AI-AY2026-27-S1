@@ -5,22 +5,23 @@
 
 The course handout is [here](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/handouts/CS_F407-AI_Handout_Jan2026_updated.pdf). The course lectures will be interleaved between "Good Old Fashioned AI" (GOFAI) and "New Fashioned AI" (NewFAI). GOFAI lectures will be taken by AS (mostly), and NewFAI lectures will be taken by TD (mostly). The official course portal will be Moodle: [click here](https://quantaaws.bits-goa.ac.in/course/view.php?id=3980). This GitHub repository is a secondary source for almost everything about the course and can be used by students who are not officially registered.
 
-### Lectures
+### Lectures & Lab Materials
 
 | Week   | Content                           |
 | ------ | ----------------------------------|
 | Week 1 | Introduction to AI |
-|        | How (Neural) Models Learn: Backpropagation ([slides](lectures/backprop.pdf))
+|        | Neural Models (Part 1) ([slides](lectures/neur_models(1).pdf)) |
+|        | Neural Models (Part 2) ([slides](lectures/neur_models(2).pdf)) |
+|        | Neural Models (Worked Examples) ([slides](lectures/neur_models_worked_ex.pdf)) |
+|        | Neural Models (Take-home Lab) ([slides](lectures/neur_models_lab_ex.pdf)) |
+| Week 2 | |
 
-## Labs
 
-coming soon.
-
-### Course Project
+### Course Projects
 
 will be announced soon.
 
-### Reading materials
+### Reading Materials
 
 Textbooks: Some are below that we like. You are free to read other books.
 
