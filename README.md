@@ -10,10 +10,9 @@ The course handout is [here](https://github.com/tirtharajdash/CS-F407_Artificial
 | Week   | Content                           |
 | ------ | ----------------------------------|
 | Week 1 | Introduction to AI |
-|        | Neural Models (Part 1) ([slides](lectures/neur_models(1).pdf)) |
-|        | Neural Models (Part 2) ([slides](lectures/neur_models(2).pdf)) |
-|        | Neural Models (Worked Examples) ([slides](lectures/neur_models_worked_ex.pdf)) |
-|        | Neural Models (Take-home Lab) ([slides](lectures/neur_models_lab_ex.pdf)) |
+|        | Neural Models (Part 1) ([slides](materials/neur_models(1).pdf)) |
+|        | Neural Models (Part 2) ([slides](materials/neur_models(2).pdf)) |
+|        | Neural Models (Take-home Lab) ([slides](materials/neur_models_lab_ex.pdf)) |
 | Week 2 | |
 
 
