@@ -3,22 +3,35 @@
 | Instructors               | [Ashwin Srinivasan](https://www.bits-pilani.ac.in/goa/ashwin-srinivasan/), [Tirtharaj Dash](https://www.bits-pilani.ac.in/goa/tirtharaj-dash) |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 
-The course handout is [here](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/handouts/CS_F407-AI_Handout_Jan2026_updated.pdf). The course lectures will be interleaved between "Good Old Fashioned AI" (GOFAI) and "New Fashioned AI" (NewFAI). GOFAI lectures will be taken by AS (mostly), and NewFAI lectures will be taken by TD (mostly). The official course portal will be Moodle: [click here](https://quantaaws.bits-goa.ac.in/course/view.php?id=3980). This GitHub repository is a secondary source for almost everything about the course and can be used by students who are not officially registered.
+The course handout is [here](admin/ai_handout_2026-2027_s1.pdf). The course lectures will be interleaved between "Good Old Fashioned AI" (GOFAI) and "New Fashioned AI" (NewFAI). GOFAI lectures will be taken by AS (mostly), and NewFAI lectures will be taken by TD (mostly). The official course portal will be Quanta: [click here](https://quanta.bits-pilani.ac.in/course/view.php?id=962); for which you need your official BITS email to login. Note that: This GitHub repository is a secondary source for almost everything about the course and can be used by students who are not officially registered and cannot access Quanta.
 
 ### Lectures & Lab Materials
 
 | Week   | Content                           |
 | ------ | ----------------------------------|
 | Week 1 | Introduction to AI |
-|        | Neural Models (Part 1) ([slides](materials/neur_models(1).pdf)) |
-|        | Neural Models (Part 2) ([slides](materials/neur_models(2).pdf)) |
-|        | Neural Models (Take-home Lab) ([slides](materials/neur_models_lab_ex.pdf)) |
-| Week 2 | |
+|        | Neural Models (Lecture 1) ([slides](materials/neur_models(1).pdf)) |
+|        | Neural Models (Lecture 2) ([slides](materials/neur_models(2).pdf)) |
+|        | Neural Models (Hands-on) ([lab](materials/neur_models_lab.pdf)) |
+| Week 2 | Agents (Lecture) ([slides](materials/agents_lecture.pdf)) |
+|        | Agents (Hands-on) ([lab](materials/agents_lab.pdf)) |
+|        | Intro to LLMs (Lecture) ([slides](materials/LLMs_intro.pdf)) |
+| Week 3 | Search (Lecture) ([slides](materials/search_lecture.pdf)) |
+|        | Search (Hands-on) ([lab](materials/search_lab.pdf)) |
+| Week 4 | Logic (Lecture) ([slides](materials/logic_lecture.pdf)) |
+|        | Logic (Hands-on) ([lab](materials/logic_lab.pdf)) |
 
+*In addition to these there are weekly lab taken by the TAs and a tutorial taken by the instructors. DO NOT MISS THOSE!*
 
 ### Course Projects
 
-will be announced soon.
+ - List of all course projects: [Google drive link](https://drive.google.com/drive/folders/1yBSF6PEls-LCsULERHAVmrrPz192y66i?usp=sharing).
+ - All course projects are now assigned: [see here](admin/CS-F407_AI_Project_Assignment_Optimal_Cap4.pdf). The teams who are working on projects involving turtlebots are already given the robots and are assigned a workspace in D-151.
+
+
+### Paper reading
+
+We will read this paper: Turing, A. M. (2007). Computing machinery and intelligence. In *Parsing the Turing test: Philosophical and methodological issues in the quest for the thinking computer* (pp. 23-65). Dordrecht: Springer Netherlands. [Read the paper here](https://academic.oup.com/mind/article/LIX/236/433/986238).
 
 ### Reading Materials
 
