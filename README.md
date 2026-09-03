@@ -20,6 +20,8 @@ The course handout is [here](admin/ai_handout_2026-2027_s1.pdf). The course lect
 |        | Search (Hands-on) ([lab](materials/search_lab.pdf)) |
 | Week 4 | Logic (Lecture) ([slides](materials/logic_lecture.pdf)) |
 |        | Logic (Hands-on) ([lab](materials/logic_lab.pdf)) |
+| Week 5 | Learning AR models ([slides](https://github.com/tirtharajdash/CS-F407-AI-AY2025-26-S2/blob/main/lectures/learn_ar.pdf)) |
+|        | Learning AR models: Transformers ([notebook](notebooks/transformers.ipynb))|
 
 *In addition to these there are weekly lab taken by the TAs and a tutorial taken by the instructors. DO NOT MISS THOSE!*
 
