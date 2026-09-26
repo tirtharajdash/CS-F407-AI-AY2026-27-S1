@@ -25,7 +25,7 @@ The course handout is [here](admin/ai_handout_2026-2027_s1.pdf). The course lect
 | Week 6 | Basic Probability (Recap) ([notes](materials/prob.pdf)) |
 |        | Bayesian Networks (Lecture) ([slides](materials/BN_lect.pdf)) |
 |        | Bayesian Networks with LLM (Hands-on) ([notebook](notebooks/llm_bn.ipynb)) |
-| Week 7 | Learning AR models (Hands-on) ([lab]()) |
+| Week 7 | Learning AR models (Hands-on) ([lab](labs/transformers)) |
 |        | LLM with RAG (Lecture) ([slides](materials/LLMwRAG.pdf), [notebook](https://github.com/tirtharajdash/CS-F407-AI-AY2025-26-S2/tree/main/labs/Lab3)) |
 | Week 8 | Bayesian Networks (Hands-on) ([lab](materials/BN_lab.pdf)) |
 |        |      |
