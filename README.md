@@ -28,7 +28,7 @@ The course handout is [here](admin/ai_handout_2026-2027_s1.pdf). The course lect
 | Week 7 | Learning AR models (Hands-on) ([lab](labs/transformers)) |
 |        | LLM with RAG (Lecture) ([slides](materials/LLMwRAG.pdf), [notebook](https://github.com/tirtharajdash/CS-F407-AI-AY2025-26-S2/tree/main/labs/Lab3)) |
 | Week 8 | Bayesian Networks (Hands-on) ([lab](materials/BN_lab.pdf)) |
-|        |      |
+|        | LLM Fine-tuning (Lecture) ([slides](https://github.com/tirtharajdash/CS-F407-AI-AY2025-26-S2/blob/main/lectures/ft.pdf)) |
 
 *In addition to these, there are weekly labs taken by the TAs and a tutorial taken by the instructors. DO NOT MISS THOSE!*
 
@@ -56,9 +56,9 @@ You can use this link ([BITS F464 Lab and Tutorial link](https://bits-f464.githu
 *If you can't get a book, it is okay to just go over the GitHub repositories or any other materials that you can find associated with these books. The AIMA book is readily available everywhere (1st-3rd editions).*
 
 
-### Students' Projects
+### Students' Repository and Projects
 
-will be listed later.
+List of students' repositories and links to their projects: [here](https://docs.google.com/spreadsheets/d/1byKiubW_PkPwsdcaBgJlWANNy0xi0JiVGx1cUb6ICUY/edit?usp=drive_link).
 
 
 ### Admin Section
