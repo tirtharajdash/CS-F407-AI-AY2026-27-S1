@@ -26,9 +26,16 @@ The course handout is [here](admin/ai_handout_2026-2027_s1.pdf). The course lect
 |        | Bayesian Networks (Lecture) ([slides](materials/BN_lect.pdf)) |
 |        | Bayesian Networks with LLM (Hands-on) ([notebook](notebooks/llm_bn.ipynb)) |
 | Week 7 | Learning AR models (Hands-on) ([lab](labs/transformers)) |
-|        | LLM with RAG (Lecture) ([slides](materials/LLMwRAG.pdf), [notebook](https://github.com/tirtharajdash/CS-F407-AI-AY2025-26-S2/tree/main/labs/Lab3)) |
+|        | LLM with RAG (Lecture 1) ([slides](materials/LLMwRAG.pdf), [notebook](https://github.com/tirtharajdash/CS-F407-AI-AY2025-26-S2/tree/main/labs/Lab3)) |
 | Week 8 | Bayesian Networks (Hands-on) ([lab](materials/BN_lab.pdf)) |
-|        | LLM Fine-tuning (Lecture) ([slides](https://github.com/tirtharajdash/CS-F407-AI-AY2025-26-S2/blob/main/lectures/ft.pdf)) |
+|        | LLM with RAG (Lecture 2) ([materials](https://github.com/tirtharajdash/CS-F407-AI-AY2025-26-S2/tree/main/labs/Lab3)) |
+| Week 9 | LLM Fine-tuning (Lecture) ([slides](https://github.com/tirtharajdash/CS-F407-AI-AY2025-26-S2/blob/main/lectures/ft.pdf)) |
+| Week 10| Latent variable models (Lecture) ([slides](materials/latent.pdf)) |
+|        | Latent variable models (VAE) ([slides](https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/Lecture25.pdf)) |
+| Week 11| Reward-based Intelligence: MDP, Q-learning (Lecture) ([slides](materials/mdp.pdf)) |
+|        | Reward-based Intelligence: Deep RL (Lecture) ([slides](https://github.com/tirtharajdash/CS-F407-AI-AY2025-26-S2/blob/main/lectures/deep_rl.pdf)) |
+| Week 12| Reward-based Intelligence: RLHF (Lecture) ([slides](https://github.com/tirtharajdash/CS-F407-AI-AY2025-26-S2/blob/main/lectures/rlhf.pdf))|
+|        | Reward-based Intelligence (Hands-on) |
 
 *In addition to these, there are weekly labs taken by the TAs and a tutorial taken by the instructors. DO NOT MISS THOSE!*
 
